@@ -1,0 +1,23 @@
+{
+  "name": "@ttuanho/storage",
+  "version": "0.0.1",
+  "description": "JS functions for browser's local storage",
+  "main": "base.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ttuanho/storage.git"
+  },
+  "keywords": [
+    "local-storage",
+    "browser"
+  ],
+  "author": "Tuan Ho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ttuanho/storage/issues"
+  },
+  "homepage": "https://github.com/ttuanho/storage#readme"
+}
